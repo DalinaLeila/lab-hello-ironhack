@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+body {
+  background-color: rgb(31, 37, 52);
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+.menu-top {
+  float: right;
+}
+.react-logo {
+  position: absolute;
+}
+
+.main-text {
+  margin-top: 200px;
+  margin-left: 100px;
+}
+
+.info-text {
+  width: 290px;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  border-radius: 7px;
+}
+
+section {
+  margin-top: 50px;
+  background: white;
+  color: rgb(31, 37, 52);
+  display: flex;
+  flex-direction: row;
+}
